@@ -1,5 +1,8 @@
 # Скринкаст по Ангулар
 
+![screenshot 2019-01-17 at 12 20 21](https://user-images.githubusercontent.com/1526680/51315359-4b088200-1a52-11e9-8c56-547b4ef14faa.png)
+
+
 Сам скринкаст находится [тут](http://learn.javascript.ru/screencast/angular).
 
 Не нашли выпуска по интересующей теме? - пожалуйста создайте [issue](https://github.com/javascript-ru/angular-screencast/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) и мы постараемся в ближайшее время записать новые.
